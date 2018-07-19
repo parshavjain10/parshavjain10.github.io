@@ -1,0 +1,94 @@
+#logo
+{
+    width: 200px;
+    height: 200px;
+    margin-bottom: -70px;
+}
+.define
+{
+ color:rgb(247, 245, 245);
+}
+
+body
+{
+        /*background-image: url(images/e1a29c67bdb153888db3e126256363ca.jpeg);*/
+        background-color: black;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#name{
+    color:rgb(250, 246, 246);
+}
+label.paper-btn
+{
+ color:rgb(250, 246, 246);
+ font-size: 30px;
+
+}
+.btn-block
+{
+    color:rgb(247, 245, 245);
+    font-size: 30px;
+   
+}
+.modal-bg
+{
+    background-image: url(images/bd4cc0927950df4cbe9759ebfa35303c.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+img
+{
+width:100px;
+height: 100px;
+
+}
+.top
+{
+ margin-top:100px;
+
+}
+@media only screen and (max-width: 600px) {
+    body {
+        
+        background-image: url(images/41460c3eae4e177ac19e33bf848307ce.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }
+}
+div.modal>.modal-body
+{
+ color:white;
+ font-size: 30px;
+background-color: black;
+}
+h4.modal-title
+{
+  font-size: 50px;
+  background-color: white;
+  color:black;
+  background-size: contain;
+  text-align: center;
+  border-radius: 50px;
+
+}
+.btn-default
+{
+
+color: white;
+border-color: white;
+margin-top: 
+
+}
+p.popover-bottom
+{
+width:100px;
+
+}
+.modal-body>button
+{
+width: 150px;
+height: 150px;
+border-radius: 100px;
+}
